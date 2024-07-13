@@ -25,5 +25,3 @@
     <img src="https://github-readme-streak-stats.herokuapp.com?user=oraclebrain&theme=shadow-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="45%" alt="@AJ's github-readme-streak-stats">
   </a> -->
 </p>
-
-[![stats](https://wakatime.com/share/@30ec3f37-bc1a-44df-b70a-d6cda6167e7b/3bed04b0-6c7f-45a2-958f-84481c970434.png)](https://github.com/TUBE-GULL)
