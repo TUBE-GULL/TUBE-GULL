@@ -14,6 +14,15 @@
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=TUBE-GULL" alt="TUBE-GULL" /></a> </p> -->
 
 <img src="https://github-profile-trophy.vercel.app/?username=TUBE-GULL&column=7&margin-w=15&margin-h=15&theme=onedark&no-bg=true&no-frame=true" width="100%" alt="TUBE-GULL"/>
-
-<p><img align="center"   src="https://github-readme-stats.vercel.app/api/top-langs/?username=TUBE-GULL&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="TUBE-GULL" /></p>
+<!-- 
+<p><img align="center"   src="https://github-readme-stats.vercel.app/api/top-langs/?username=TUBE-GULL&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="TUBE-GULL" /></p> -->
  <!-- <img height="195px"  alt="webDev's Github Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TUBE-GULL&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact" /> -->
+
+ <p align="center">
+  <!-- <a href="https://github.com/oraclebrain?tab=repositories">
+    <img src="https://github-readme-stats-one-bice.vercel.app/api?username=oraclebrain&theme=transparent&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" width="45%" alt="@Oraclebrain's github-readme-stats">
+  </a> -->
+  <a href="https://github.com/oraclebrain?tab=stars">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=oraclebrain&theme=shadow-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="45%" alt="@AJ's github-readme-streak-stats">
+  </a>
+</p>
