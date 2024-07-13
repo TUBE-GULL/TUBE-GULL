@@ -14,22 +14,15 @@
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=TUBE-GULL" alt="TUBE-GULL" /></a> </p> -->
 
 <img src="https://github-profile-trophy.vercel.app/?username=TUBE-GULL&column=7&margin-w=15&margin-h=15&theme=onedark&no-bg=true&no-frame=true" width="100%" alt="TUBE-GULL"/>
-<!-- 
-<p><img align="center"   src="https://github-readme-stats.vercel.app/api/top-langs/?username=TUBE-GULL&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="TUBE-GULL" /></p> -->
- <!-- <img height="195px"  alt="webDev's Github Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TUBE-GULL&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact" /> -->
 
- <!-- <p align="center">
-  <img align="center"   src="https://github-readme-stats.vercel.app/api/top-langs/?username=TUBE-GULL&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="TUBE-GULL" />
-  </a>
+<p><img align="center"   src="https://github-readme-stats.vercel.app/api/top-langs/?username=TUBE-GULL&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="TUBE-GULL" /></p>
+ <img height="195px"  alt="webDev's Github Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TUBE-GULL&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+
+ <!-- <div align="center"> -->
+  <!-- <img align="center"   src="https://github-readme-stats.vercel.app/api/top-langs/?username=TUBE-GULL&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="TUBE-GULL" />
+  </a> -->
   <!-- <a href="https://github.com/oraclebrain?tab=stars">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=oraclebrain&theme=shadow-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="45%" alt="@AJ's github-readme-streak-stats">
   </a> -->
-<!-- </p> --> 
+<!-- </div>  -->
 
-
-
- <div align="center">
-  <a href="https://github.com/TUBE-GULL"> 
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rodrigo-Cn&show_icons=true&theme=algolia"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rodrigo-Cn&layout=compact&langs_count=7&theme=algolia" alt="Top Langs"/>
-</div>
