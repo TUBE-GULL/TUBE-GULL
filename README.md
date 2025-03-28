@@ -31,31 +31,31 @@
 
 <!-- numpy -->
  <a href="https://numpy.org/" target="_blank" rel="noreferrer" style="display: inline-block;">
-   <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="Numpy" alt="Numpy" width="60" height="60"/> 
+   <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="Numpy" alt="Numpy" width="40" height="40"/> 
  </a>
 <!-- Pandas -->
  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer" style="display: inline-block;">
-   <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="60" height="60"/> 
+   <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="40" height="40"/> 
  </a>
 <!-- tensorflow -->
  <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer" style="display: inline-block;"> 
-   <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" title="tensorflow" alt="tensorflow" width="60" height="60"> 
+   <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" title="tensorflow" alt="tensorflow" width="40" height="40"> 
  </a>
 <!-- keras -->
   <a href="https://keras.io/" target="_blank" rel="noreferrer" style="display: inline-block;">
-   <img src="https://github.com/devicons/devicon/blob/master/icons/keras/keras-original.svg" title="keras" alt="keras" width="60" height="60"> 
+   <img src="https://github.com/devicons/devicon/blob/master/icons/keras/keras-original.svg" title="keras" alt="keras" width="40" height="40"> 
  </a>
 <!-- plotly -->
  <a href="https://plotly.com/" target="_blank" rel="noreferrer" style="display: inline-block;">
-   <img src="https://github.com/devicons/devicon/blob/master/icons/plotly/plotly-original.svg" title="plotly" alt="plotly" width="60" height="60"/>
+   <img src="https://github.com/devicons/devicon/blob/master/icons/plotly/plotly-original.svg" title="plotly" alt="plotly" width="40" height="40"/>
  </a>
 <!-- scikit-learn -->
  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer" style="display: inline-block;">
-   <img src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg" title="sklearn" alt="sklearn" width="60" height="60"/>
+   <img src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg" title="sklearn" alt="sklearn" width="40" height="40"/>
  </a>
 <!-- aiogram -->
   <a href="https://docs.aiogram.dev/en/latest/index.html" target="aiogram" style="display: inline-block;">
-   <img src="https://docs.aiogram.dev/en/latest/_static/logo.png" alt="aiogram" width="60" height="60"/>
+   <img src="https://docs.aiogram.dev/en/latest/_static/logo.png" alt="aiogram" width="40" height="40"/>
  </a>
 
 
