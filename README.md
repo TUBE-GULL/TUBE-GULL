@@ -56,7 +56,9 @@
   <a href="https://docs.aiogram.dev/en/latest/index.html" target="aiogram" style="display: inline-block;">
     <img src="https://docs.aiogram.dev/en/latest/_static/logo.png" alt="aiogram" width="40" height="40"/>
   </a>
+</p>
 
+<p align="center">
   <!-- Base Date -->
   <!-- mongodb -->
   <!-- <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>  -->
