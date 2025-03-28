@@ -6,10 +6,9 @@
 
 
 <!-- <h3 align="left">Languages and Tools:</h3> -->
-## <div align="center"><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 40px> Skills:
+## <div align="center"><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width="40px"> Skills:</div>
 
-
-  <p align="center">
+<p align="center">
   <!-- HTML -->
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
   <!-- CSS -->
@@ -28,7 +27,7 @@
   <!-- <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> -->
   <!-- Python -->
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-  
+
   <!-- numpy -->
   <a href="https://numpy.org/" target="_blank" rel="noreferrer" style="display: inline-block;">
      <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="Numpy" alt="Numpy" width="40" height="40"/> 
@@ -57,7 +56,7 @@
   <a href="https://docs.aiogram.dev/en/latest/index.html" target="aiogram" style="display: inline-block;">
     <img src="https://docs.aiogram.dev/en/latest/_static/logo.png" alt="aiogram" width="40" height="40"/>
   </a>
-</div>
+</p>
 
 <!-- Base Date -->
 <!-- mongodb -->
