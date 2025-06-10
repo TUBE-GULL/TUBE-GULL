@@ -4,6 +4,13 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=TUBE-GULL&label=Profile%20views&color=0e75b6&style=flat" alt="TUBE-GULL" /> </p>
 
 
+
+
+### 📫 Связаться со мной:
+🌍 Я живу во **XXX** (под санкциями !)
+- Telegram: [@Kartmen_B](https://t.me/@Kartmen_B)
+
+
 </h2 align="left">👨‍💻 About me</h2>
 
 Начинал изучать программирование с **HTML** и **CSS**.  
@@ -53,9 +60,9 @@ RAG-система на базе Saiga LLaMA3 8B для генерации от�
 <!-- [**Ссылка на проект**]()  -->
 
 
-### 📫 Связаться со мной:
-🌍 Я живу во **XXX** (под санкциями !)
-- Telegram: [@Kartmen_B](https://t.me/@Kartmen_B)
+
+🎯 Моя цель  — стать разрабочиком нейросетей
+
 
 
 <!-- <h3 align="left">Languages and Tools:</h3> -->
