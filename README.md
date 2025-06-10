@@ -1,6 +1,9 @@
 
 <h1 align="center">Hi 👋, I'm Oleg Samsonov</h1>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=TUBE-GULL&label=Profile%20views&color=0e75b6&style=flat" alt="TUBE-GULL" /> </p>
+
+
 </h2 align="left">👨‍💻 About me</h2>
 
 Начинал изучать программирование с **HTML** и **CSS**.  
@@ -50,10 +53,6 @@ RAG-система на базе Saiga LLaMA3 8B для генерации от�
 ### 📫 Связаться со мной:
 🌍 Я живу во **XXX** (под санкциями !)
 - Telegram: [@Kartmen_B](https://t.me/@Kartmen_B)
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=TUBE-GULL&label=Profile%20views&color=0e75b6&style=flat" alt="TUBE-GULL" /> </p>
-
 
 
 <!-- <h3 align="left">Languages and Tools:</h3> -->
