@@ -11,7 +11,8 @@
 
 ### 📫 Связаться со мной:
 🌍 Я живу во **XXX** (под санкциями !)
-- Telegram: [@Kartmen_B](https://t.me/@Kartmen_B)
+<!-- - Telegram: [@Kartmen_B](https://t.me/@Kartmen_B) -->
+<a href="https://t.me/mychannelname" target="_blank" style="display:inline-block;padding:10px 20px;background:#0088cc;color:white;border-radius:5px;text-decoration:none;">Перейти в Telegram</a>
 
 
 </h2 align="left">👨‍💻 About me</h2>
