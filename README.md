@@ -11,20 +11,8 @@
 
 ### 📫 Связаться со мной:
 🌍 Я живу во **XXX** (под санкциями !)
-<!-- - Telegram: [@Kartmen_B](https://t.me/@Kartmen_B) -->
-<a href="https://t.me/@Kartmen_B" target="_blank" style="
-    display: inline-block;
-    padding: 12px 24px;
-    background-color: #45b3ee;
-    color: #ffffff;
-    text-decoration: none;
-    border-radius: 8px;
-    font-size: 16px;
-    text-align: center;
-    font-family: sans-serif;
-">
-    Telegram
-</a>
+- Telegram: [@Kartmen_B](https://t.me/@Kartmen_B)
+
 
 </h2 align="left">👨‍💻 About me</h2>
 
