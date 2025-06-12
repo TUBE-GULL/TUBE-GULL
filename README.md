@@ -5,7 +5,7 @@
 
 
 <div align="center">
-    <img src="https://count.getloli.com/get/@TUBE-GULL?theme=asoul" /><br>
+    <img src="https://count.getloli.com/@TUBE-GULL?name=TUBE-GULL&theme=original-old&padding=4&offset=0&align=top&scale=1&pixelated=1&darkmode=1" /><br>
 </div>
 
 
