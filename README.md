@@ -12,8 +12,19 @@
 ### 📫 Связаться со мной:
 🌍 Я живу во **XXX** (под санкциями !)
 <!-- - Telegram: [@Kartmen_B](https://t.me/@Kartmen_B) -->
-<a href="https://t.me/mychannelname" target="_blank" style="display:inline-block;padding:10px 20px;background:#0088cc;color:white;border-radius:5px;text-decoration:none;">Перейти в Telegram</a>
-
+<a href="https://t.me/@Kartmen_B" target="_blank" style="
+    display: inline-block;
+    padding: 12px 24px;
+    background-color: #45b3ee;
+    color: #ffffff;
+    text-decoration: none;
+    border-radius: 8px;
+    font-size: 16px;
+    text-align: center;
+    font-family: sans-serif;
+">
+    Telegram
+</a>
 
 </h2 align="left">👨‍💻 About me</h2>
 
@@ -141,7 +152,10 @@ RAG-система на базе Saiga LLaMA3 8B для генерации от�
 <img src="https://github-profile-trophy.vercel.app/?username=TUBE-GULL&column=7&margin-w=15&margin-h=15&theme=onedark&no-bg=true&no-frame=true" width="100%" alt="TUBE-GULL"/>
 <!-- 
 <p><img align="center"   src="https://github-readme-stats.vercel.app/api/top-langs/?username=TUBE-GULL&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="TUBE-GULL" /></p> -->
- <img height="195px"  alt="webDev's Github Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TUBE-GULL&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+
+<div align= "center" >
+   <img height="195px"  alt="webDev's Github Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TUBE-GULL&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+</div>
 
  <!-- <div align="center"> -->
   <!-- <img align="center"   src="https://github-readme-stats.vercel.app/api/top-langs/?username=TUBE-GULL&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="TUBE-GULL" />
